@@ -1,2 +1,2 @@
 # LCDWITHPASSWORD
-![](Skematic.png)
+![](Schematic.png)
